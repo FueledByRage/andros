@@ -6,11 +6,13 @@ The handler object is suposed to extract the command name and the params from th
 
 ## Already implemented features
 
-command | params | response
-getState | A Typescript interface | A list of react state variables matching the interface
+| command | params | response |
+|---------|--------|----------|
+getState | A Typescript interface | A list of react state variables matching the interface 
 
 
 ## Working on 
 
-command | params | response
-generateEntity | A list of entity atributes | A Typescript entity
+ command | params | response 
+|---------|--------|----------|
+generateEntity | A list of entity atributes | A Typescript entity 
